@@ -82,7 +82,7 @@ Caso tenha problemas de autenticação de email mesmo com o user e senha correto
 
 [https://myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps)
 
-Ative a opção *Permitir aplicativos menos seguros* conforme a imagem abaixo 
+Ative a opção *Permitir aplicativos menos seguros* conforme a imagem abaixo.
 
 ![ativar opção de app no gmail](https://github.com/diegoguedes91/enviando_email_com_Python/blob/main/ativar_app.JPG)
 
